@@ -1,0 +1,40 @@
+# Ambiente virtual
+venv/
+.env/
+env/
+.venv/
+
+# Arquivos de dependência locais
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Pastas do VS Code
+.vscode/
+
+# IDEs
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de log
+*.log
+
+# Configs locais e temporários
+*.swp
+*.bak
+*.tmp
+*.DS_Store
+
+# Arquivos de banco de dados locais
+*.sqlite3
+
+# Arquivos de pacotes e builds
+dist/
+build/
+*.egg-info/
+
+# Arquivos do sistema
+Thumbs.db
+ehthumbs.db
